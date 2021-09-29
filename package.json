@@ -11,7 +11,7 @@
     "@mdi/font": "^3.6.95",
     "core-js": "^3.6.5",
     "firebase": "^7.15.3",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "roboto-fontface": "*",
     "vue": "^2.6.11",
     "vue-textarea-autosize": "^1.1.1",
